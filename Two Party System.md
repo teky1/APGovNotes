@@ -1,5 +1,8 @@
 # Two Party System
-The political system in America in which there are two main [[Political Parties]], the [[Democratic Party]] and the [[Republican Party]].
+The political system in America in which there are only two [[Major Parties]] that have all the control in government.
+
+The two party system continues to stay as the main system because there is no way for [[Minor Parties]] to catch up and contest the major parties who have much better media coverage, laws, and financing.
+
 + **ADVANTAGES**
 	- Simple
 		- There's really only two options for people to choose between

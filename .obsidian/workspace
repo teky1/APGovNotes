@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Media.md",
+            "file": "Minor Parties.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Media.md",
+                "file": "Minor Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,14 +88,15 @@
   },
   "active": "cb8447f48e88471c",
   "lastOpenFiles": [
-    "Media.md",
-    "Muckraking.md",
+    "Minor Parties.md",
+    "Major Parties.md",
+    "Two Party System.md",
     "Linkage Institutions.md",
     "Political Parties.md",
+    "Two Party Monopoly.md",
+    "Media.md",
+    "Muckraking.md",
     "Republican Party.md",
-    "Two Party System.md",
-    "Double Penalty.md",
-    "Democratic Party.md",
-    "Linkage Institution.md"
+    "Double Penalty.md"
   ]
 }

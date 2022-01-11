@@ -12,3 +12,5 @@ Media is essentially how information is passed along.
 	- Feed the public certain information
 	- Decide what the public sees
 	- Media has huge influence on public agenda
++ Scorekeeper
+	- Tells the public who is winning or losing
