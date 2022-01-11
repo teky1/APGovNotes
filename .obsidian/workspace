@@ -7,8 +7,11 @@
         "id": "cb8447f48e88471c",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Minor Parties.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Minor Parties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,6 +88,7 @@
   },
   "active": "cb8447f48e88471c",
   "lastOpenFiles": [
+    "Minor Parties.md",
     "Interest Groups.md",
     "The Revolving Door.md",
     "Linkage Institutions.md",
@@ -92,7 +97,6 @@
     "Lobbying.md",
     "Amicus Curiae Briefs.md",
     "Free Rider Problem.md",
-    "Regulation of Media.md",
-    "FCC.md"
+    "Regulation of Media.md"
   ]
 }
