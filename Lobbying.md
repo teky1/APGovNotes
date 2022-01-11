@@ -8,3 +8,5 @@ Lobbyists are paid representatives of an interest group
 + Draft Legislation
 + Influence appointments
 + "Wining and Dining"
++ Campaign Contributions
++ Coalition Lobbying
