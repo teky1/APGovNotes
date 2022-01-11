@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "50d40e6133be7974",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb8447f48e88471c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Media.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "271e011bd78e0a0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "579a476976a14ffa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87ebc3f2182e06a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6676796942dc6a79",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e086f5f4fcfac5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bcabc55ca43b4d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8822dc1da68605f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Media.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cb8447f48e88471c",
+  "lastOpenFiles": [
+    "Media.md",
+    "Muckraking.md",
+    "Linkage Institutions.md",
+    "Political Parties.md",
+    "Republican Party.md",
+    "Two Party System.md",
+    "Double Penalty.md",
+    "Democratic Party.md",
+    "Linkage Institution.md"
+  ]
+}
