@@ -7,6 +7,6 @@ Lobbyists are paid representatives of an interest group
 + Congressional Testimoney
 + Draft Legislation
 + Influence appointments
-+ "Wining and Dining"
++ [[Wining and Dining]]
 + Campaign Contributions
 + Coalition Lobbying
