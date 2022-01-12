@@ -1,7 +1,7 @@
 # Linkage Institutions
 Institutions that help connect voters to their government
 
-**INCLUDES:**
+### Examples of Linkage Institutions
 + [[Political Parties]]
 + [[Media]]
 + [[Interest Groups]]
