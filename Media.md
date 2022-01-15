@@ -33,3 +33,5 @@ Media is essentially how information is passed along.
 + Citizen journalism
 	- Nowadays everyone has a camera in their pocket, so basically everyone can be a journalist
 	- This can contribute to Proliferation
+
+*Subject: Government*

@@ -20,3 +20,5 @@ Smaller [[Political Parties]] that rarely ever gain any traction because of the 
 	- Parties that contain people that all follow and support a certain idealogy
 	- One example is [[Communist Party USA]]
 	- Other modern examples could be [[Green Party]] and [[Libertarian Party]]
+
+*Subject: Government*

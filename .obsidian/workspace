@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "c26ce00ff11250b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d34bed59934e348",
+        "type": "leaf",
+        "dimension": 48.78205128205128,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History of the Periodic Table.md",
+            "mode": "source"
+          }
+        },
+        "group": "0b25d7b5edf6b96e"
+      },
+      {
+        "id": "ea6df29d6096f93e",
+        "type": "leaf",
+        "dimension": 51.217948717948715,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History of the Periodic Table.md",
+            "mode": "preview"
+          }
+        },
+        "group": "0b25d7b5edf6b96e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37d5fc0d59ec7534",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab5fea70acc27f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ac1f1f5fa2a1d41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0bbdf61dff53a5e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f5cde6fcb3e5816b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b0f875bd2b05d3e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afcaca4b2b2be4e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History of the Periodic Table.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5d34bed59934e348",
+  "lastOpenFiles": [
+    "History of the Periodic Table.md",
+    "Henry Mosely.md",
+    "Ernest Rutherford.md",
+    "Dmitri Mendeleev.md",
+    "Atomic Mass.md",
+    "Linkage Institutions.md",
+    "Minor Parties.md",
+    "Interest Groups.md",
+    "Political Parties.md",
+    "Jack Abramoff.md"
+  ]
+}

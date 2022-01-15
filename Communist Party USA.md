@@ -7,3 +7,5 @@ The Communist Party fought...
 - For strong regulation of business
 
 This party has not had a candidate since 1984.
+
+*Subject: Government*

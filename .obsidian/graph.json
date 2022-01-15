@@ -5,18 +5,33 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 65288
+      }
+    },
+    {
+      "query": "government",
+      "color": {
+        "a": 1,
+        "rgb": 15637
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.172649572649573,
-  "repelStrength": 14.9380341880342,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.716601508169814,
-  "close": false
+  "centerStrength": 0.477264747191011,
+  "repelStrength": 10.3318117977528,
+  "linkStrength": 0.314343398876405,
+  "linkDistance": 30,
+  "scale": 0.4566892310018875,
+  "close": true
 }

@@ -9,3 +9,5 @@ One of the modern [[Minor Parties]]
 - Less military spending
 - End war on drugs
 - Free education
+
+*Subject: Government*

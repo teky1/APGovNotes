@@ -7,3 +7,5 @@ This act also placed restrictions on the amount of gifts, meals, and travelling 
 
 This act also increased the penalties that were issued for violations of these laws
 
+*Subject: Government*
+

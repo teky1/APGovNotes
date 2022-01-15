@@ -16,3 +16,5 @@ The two party system continues to stay as the main system because there is no wa
 	- Over-moderates; underrepresents minority views
 		- Minority views may not be able to gain traction in very large parties
 	- [[Double Penalty]]
+
+*Subject: Government*
